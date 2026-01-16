@@ -23,7 +23,7 @@ display: "swap",
 
 export const metadata: Metadata = {
 title: "Mirelly Alvarenga - Portfolio",
-description: "Portfólio de Engenharia de Software de Mirelly Alvarenga",
+description: "Portfólio de Análise de Dados de Mirelly Alvarenga",
 icons: {
   icon: "/",
 },
